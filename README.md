@@ -9,11 +9,11 @@
 
 ▶️ Concepts used are
 
-✅ Splash Animation
-✅ CardView
-✅ Forms
-✅ Creating class
-✅ Forgot password
-✅ Login and Register with required fields and Progress Bar
-✅ Authentication
+✅ Splash Animation<br/>
+✅ CardView<br/>
+✅ Forms<br/>
+✅ Creating class<br/>
+✅ Forgot password<br/>
+✅ Login and Register with required fields and Progress Bar<br/>
+✅ Authentication<br/>
 ✅ Storage as Realtime Database
